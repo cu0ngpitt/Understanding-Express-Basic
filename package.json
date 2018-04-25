@@ -1,0 +1,26 @@
+{
+  "name": "Understanding-Express-Basic",
+  "version": "1.0.0",
+  "description": "Exercise to help me better understand Express Framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cu0ngpitt/Understanding-Express-Basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cu0ngpitt/Understanding-Express-Basic/issues"
+  },
+  "homepage": "https://github.com/cu0ngpitt/Understanding-Express-Basic#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "multer": "^1.3.0"
+  }
+}
